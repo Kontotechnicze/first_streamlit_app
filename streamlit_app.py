@@ -1,5 +1,4 @@
 import streamlit
-pip uninstall snowflake
 pip install snowflake-connector-python==2.8.3
 
 
