@@ -1,5 +1,6 @@
 import streamlit
-pip install snowflake.sqlalchemy
+pip uninstall snowflake
+pip install snowflake-connector-python==2.8.3
 
 
 streamlit.title('My Parents New Healthy Diner')
