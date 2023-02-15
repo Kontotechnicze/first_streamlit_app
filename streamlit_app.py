@@ -1,5 +1,5 @@
 import streamlit
-import snowflake.connector 
+pip install snowflake.sqlalchemy
 
 
 streamlit.title('My Parents New Healthy Diner')
